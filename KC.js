@@ -19,11 +19,4 @@ for (cNumb = 1, checkRep = [], x = getUserInput(), document.write("<div id = \"m
 	}
 	checkRep = checkRep.concat(x);
 }
-alert("i'll try to format this better later lol");
 document.write("</div>");
-
-//https://en.wikipedia.org/wiki/Great_icosicosidodecahedron
-//https://en.wikipedia.org/wiki/Great_inverted_snub_icosidodecahedron
-//https://en.wikipedia.org/wiki/Great_disnub_dirhombidodecahedron
-//https://en.wikipedia.org/wiki/Tetrahedron
-//List of all polyhedrons
